@@ -1,0 +1,13 @@
+{"level":"error","message":"Invalid number 'alpha' received for parameter n2.","service":"calculator-service"}
+{"level":"error","message":"Invalid number 'x' received for 1st parameterat /add endpoint.","service":"calculator-service"}
+{"level":"error","message":"Invalid number 'x' received for 1st parameter at '/add' endpoint.","service":"calculator-service"}
+{"level":"error","message":"Invalid number 'y' received for 2nd parameter at '/add' endpoint.","service":"calculator-service"}
+{"level":"error","message":"Invalid number 'souix' received for parameter n2 in function subtract.","service":"calculator-service"}
+{"level":"error","message":"Invalid number 'souix' received for parameter n2 in function subtract.","service":"calculator-service"}
+{"level":"error","message":"Invalid number 'undefined' received for parameter n2 in function add.","service":"calculator-service"}
+{"level":"error","message":"Parameter n2 is zero. Unable to divide by zero","service":"calculator-service"}
+{"level":"error","message":"Negative n1 is not possible for even roots (i.e. even n2)","service":"calculator-service"}
+{"level":"error","message":"Invalid number 'suzie' received for parameter n2 in function root.","service":"calculator-service"}
+{"level":"error","message":"Invalid number 'franky' received for parameter n2 in function root.","service":"calculator-service"}
+{"level":"error","message":"Invalid number 'pi' received for parameter n2 in function mod.","service":"calculator-service"}
+{"level":"error","message":"Negative n1 is not possible for even roots (i.e. even n2)","service":"calculator-service"}

@@ -1,0 +1,24 @@
+{
+  "name": "sit323_2024t1_4.1p",
+  "version": "1.0.0",
+  "description": "A simple calculator microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duncancan/sit323_2024t1_4.1p.git"
+  },
+  "author": "Duncan McMurtrie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duncancan/sit323_2024t1_4.1p/issues"
+  },
+  "homepage": "https://github.com/duncancan/sit323_2024t1_4.1p#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "winston": "^3.13.0"
+  }
+}

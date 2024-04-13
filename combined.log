@@ -1,0 +1,82 @@
+{"level":"info","message":"Numbers 5 and 16 received for addition.","service":"calculator-service"}
+{"level":"info","message":"Numbers 5 and 16 received for addition.","service":"calculator-service"}
+{"level":"error","message":"Invalid number 'alpha' received for parameter n2.","service":"calculator-service"}
+{"level":"info","message":"Numbers undefined and undefined received for addition.","service":"calculator-service"}
+{"level":"info","message":"Numbers 5 and 12 received for addition.","service":"calculator-service"}
+{"level":"info","message":"Numbers 2 and 2 received for addition.","service":"calculator-service"}
+{"level":"info","message":"Numbers 2 and 5 received for addition.","service":"calculator-service"}
+{"level":"info","message":"Numbers 2 and 6 received for addition.","service":"calculator-service"}
+{"level":"info","message":"Numbers 2 and 6 received for addition.","service":"calculator-service"}
+{"level":"info","message":"Numbers 2 and 22 received for addition.","service":"calculator-service"}
+{"level":"info","message":"Numbers 2 and 22 received for addition.","service":"calculator-service"}
+{"level":"info","message":"Numbers 123 and 456 received for addition.","service":"calculator-service"}
+{"level":"error","message":"Invalid number 'x' received for 1st parameterat /add endpoint.","service":"calculator-service"}
+{"level":"error","message":"Invalid number 'x' received for 1st parameter at '/add' endpoint.","service":"calculator-service"}
+{"level":"error","message":"Invalid number 'y' received for 2nd parameter at '/add' endpoint.","service":"calculator-service"}
+{"level":"info","message":"Numbers 5 and 16 received for multiplication.","service":"calculator-service"}
+{"level":"info","message":"Numbers 5 and 16 received for function subtract.","service":"calculator-service"}
+{"level":"error","message":"Invalid number 'souix' received for parameter n2 in function subtract.","service":"calculator-service"}
+{"level":"error","message":"Invalid number 'souix' received for parameter n2 in function subtract.","service":"calculator-service"}
+{"level":"info","message":"Numbers 66 and 16 received for function subtract.","service":"calculator-service"}
+{"level":"info","message":"Numbers 66 and 16 received for function divide.","service":"calculator-service"}
+{"level":"info","message":"Numbers 66 and 16 received for function divide.","service":"calculator-service"}
+{"level":"info","message":"Numbers 66 and 16 received for function add.","service":"calculator-service"}
+{"level":"info","message":"Numbers 66 and 16 received for function add.","service":"calculator-service"}
+{"level":"info","message":"Numbers 66 and 16 received for function add.","service":"calculator-service"}
+{"level":"info","message":"Numbers 66 and 16 received for function add.","service":"calculator-service"}
+{"level":"info","message":"Numbers 66 and 16 received for function add.","service":"calculator-service"}
+{"level":"error","message":"Invalid number 'undefined' received for parameter n2 in function add.","service":"calculator-service"}
+{"level":"info","message":"Numbers 123 and 456 received for function add.","service":"calculator-service"}
+{"level":"info","message":"Numbers 123 and 456 received for function add.","service":"calculator-service"}
+{"level":"info","message":"Numbers 123 and 456 received for function subtract.","service":"calculator-service"}
+{"level":"info","message":"Numbers 123 and 456 received for function multiply.","service":"calculator-service"}
+{"level":"info","message":"Numbers 123 and 456 received for function divide.","service":"calculator-service"}
+{"level":"error","message":"Parameter n2 is zero. Unable to divide by zero","service":"calculator-service"}
+{"level":"info","message":"Numbers 123 and 0 received for function divide.","service":"calculator-service"}
+{"level":"info","message":"Numbers 123 and 0 received for function multiply.","service":"calculator-service"}
+{"level":"info","message":"Numbers 123 and 0 received for function subtract.","service":"calculator-service"}
+{"level":"info","message":"Numbers 123 and 0 received for function add.","service":"calculator-service"}
+{"level":"info","message":"Numbers 123 and 44 received for function add.","service":"calculator-service"}
+{"level":"info","message":"Numbers 2 and 3 received for function power.","service":"calculator-service"}
+{"level":"info","message":"Numbers 2 and -3 received for function power.","service":"calculator-service"}
+{"level":"info","message":"Numbers 2 and 0 received for function power.","service":"calculator-service"}
+{"level":"info","message":"Numbers 16 and 0 received for function power.","service":"calculator-service"}
+{"level":"info","message":"Numbers 16 and 2 received for function power.","service":"calculator-service"}
+{"level":"info","message":"Numbers 16 and 4 received for function power.","service":"calculator-service"}
+{"level":"info","message":"Numbers 66 and 16 received for function root.","service":"calculator-service"}
+{"level":"info","message":"Numbers 16 and 2 received for function root.","service":"calculator-service"}
+{"level":"info","message":"Numbers 16 and 3 received for function root.","service":"calculator-service"}
+{"level":"info","message":"Numbers 16 and 4 received for function root.","service":"calculator-service"}
+{"level":"info","message":"Numbers 256 and 4 received for function root.","service":"calculator-service"}
+{"level":"info","message":"Numbers 4 and 4 received for function power.","service":"calculator-service"}
+{"level":"error","message":"Negative n1 is not possible for even roots (i.e. even n2)","service":"calculator-service"}
+{"level":"info","message":"Numbers -16 and 2 received for function root.","service":"calculator-service"}
+{"level":"error","message":"Invalid number 'suzie' received for parameter n2 in function root.","service":"calculator-service"}
+{"level":"error","message":"Invalid number 'franky' received for parameter n2 in function root.","service":"calculator-service"}
+{"level":"info","message":"Numbers 256 and 2 received for function mod.","service":"calculator-service"}
+{"level":"info","message":"Numbers 256 and 3 received for function mod.","service":"calculator-service"}
+{"level":"info","message":"Numbers 256 and 4 received for function mod.","service":"calculator-service"}
+{"level":"info","message":"Numbers 256 and 16 received for function mod.","service":"calculator-service"}
+{"level":"info","message":"Numbers 3.14159 and 2 received for function mod.","service":"calculator-service"}
+{"level":"error","message":"Invalid number 'pi' received for parameter n2 in function mod.","service":"calculator-service"}
+{"level":"info","message":"Numbers  received for function mod.","service":"calculator-service"}
+{"level":"info","message":"Numbers  received for function mod.","service":"calculator-service"}
+{"level":"info","message":"Numbers  received for function add.","service":"calculator-service"}
+{"level":"info","message":"Numbers  received for function add.","service":"calculator-service"}
+{"level":"info","message":"Numbers  received for function add.","service":"calculator-service"}
+{"level":"info","message":"Numbers  received for function add.","service":"calculator-service"}
+{"level":"info","message":"Numbers  received for function add.","service":"calculator-service"}
+{"level":"info","message":"Numbers  received for function add.","service":"calculator-service"}
+{"level":"info","message":"Numbers 5,12 received for function add.","service":"calculator-service"}
+{"level":"info","message":"Numbers 5,12 received for function subtract.","service":"calculator-service"}
+{"level":"info","message":"Numbers 5,12,6 received for function subtract.","service":"calculator-service"}
+{"level":"info","message":"Numbers 5,12,6 received for function subtract.","service":"calculator-service"}
+{"level":"info","message":"Numbers 5,12 received for function add.","service":"calculator-service"}
+{"level":"info","message":"Numbers 4,4 received for function power.","service":"calculator-service"}
+{"level":"info","message":"Numbers 2,3 received for function power.","service":"calculator-service"}
+{"level":"info","message":"Numbers 8,3 received for function root.","service":"calculator-service"}
+{"level":"info","message":"Numbers 65536,4 received for function root.","service":"calculator-service"}
+{"level":"error","message":"Negative n1 is not possible for even roots (i.e. even n2)","service":"calculator-service"}
+{"level":"info","message":"Numbers -65536,4 received for function root.","service":"calculator-service"}
+{"level":"info","message":"Numbers 5,2 received for function mod.","service":"calculator-service"}
+{"level":"info","message":"Numbers 5,2,1,6 received for function quad.","service":"calculator-service"}
