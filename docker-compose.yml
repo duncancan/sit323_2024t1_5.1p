@@ -1,0 +1,29 @@
+version: '3.8'
+services:
+  app:
+    build: .
+    image: duncancan/sit323-51p
+    ports:
+      - '3000:3000'
+    environment:
+      - PORT=3000
+    container_name: my-app
+    networks:
+      - my-net
+
+  app1:
+    build: .
+    image: duncancan/sit323-51p
+    ports:
+      - '3040:3000'
+    environment:
+      - PORT=3000
+    container_name: my-app1
+    networks:
+      - my-net
+
+
+networks:
+  my-net:
+    driver: bridge
+    
